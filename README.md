@@ -5,7 +5,7 @@ Setup
 -----
 - Copy the l4d2_map_timer.smx to \sourcemod\plugins
 - Add the following code to \sourcemod\configs\databases.cfg 
-
+```
 	"Timer"
 	{
 		"driver"			"sqlite"
@@ -16,3 +16,4 @@ Setup
 		//"timeout"			"0"
 		//"port"			"0"
 	}
+```
