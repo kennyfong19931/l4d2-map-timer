@@ -27,4 +27,4 @@ A sourcemod plugin for L4D2, it will record the time used to finish the map.
 - !timerstart - Start map timer when timer is enabled
 - !timerstop - Stop map timer when timer is enabled
 - !cleartime - Clear record for current map and difficulty
-- !cleartimeall - Clear all timer record is database
+- !cleartimeall - Clear all timer record in database
