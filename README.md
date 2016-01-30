@@ -1,5 +1,5 @@
 # l4d2-map-timer #
-A sourcemod plugin for L4D2, it will record the time used to finish the map.
+A sourcemod plugin for L4D2, it will record the time used to finish the map in coop mode.
 
 ## Setup ##
 - Copy the l4d2_map_timer.smx to \sourcemod\plugins
